@@ -67,7 +67,7 @@ Arial
 9
 $CLAYER
 8
-CADASTRAL
+BUILDINGS
 9
 $DIMASZ
 40
@@ -223,9 +223,9 @@ AcDbViewportTableRecord
 21
 1
 12
-122.731174178
+213.722145455
 22
-94.2850702565
+152.786690985
 13
 0
 23
@@ -251,9 +251,9 @@ AcDbViewportTableRecord
 37
 0
 40
-367.046502215
+678.354985783
 41
-1.95625
+2.06737120211
 42
 50
 43
@@ -1137,7 +1137,7 @@ AcDbLayerTableRecord
 2
 BANKS
 70
-5
+4
 62
 12
 6
@@ -1203,7 +1203,7 @@ AcDbLayerTableRecord
 2
 CONTOURS
 70
-5
+4
 62
 1
 6
@@ -1225,7 +1225,7 @@ AcDbLayerTableRecord
 2
 CONTOURS @ 1
 70
-5
+4
 62
 1
 6
@@ -1247,7 +1247,7 @@ AcDbLayerTableRecord
 2
 CONTROL
 70
-5
+4
 62
 7
 6
@@ -1269,7 +1269,7 @@ AcDbLayerTableRecord
 2
 DESCRIPTIONS
 70
-5
+4
 62
 1
 6
@@ -1291,7 +1291,7 @@ AcDbLayerTableRecord
 2
 ELECTRICAL
 70
-5
+4
 62
 3
 6
@@ -1313,7 +1313,7 @@ AcDbLayerTableRecord
 2
 FENCES
 70
-5
+4
 62
 6
 6
@@ -1335,7 +1335,7 @@ AcDbLayerTableRecord
 2
 GRIDS
 70
-5
+4
 62
 9
 6
@@ -1357,7 +1357,7 @@ AcDbLayerTableRecord
 2
 LEVELS
 70
-5
+4
 62
 1
 6
@@ -1379,7 +1379,7 @@ AcDbLayerTableRecord
 2
 POINTS
 70
-5
+4
 62
 1
 6
@@ -1445,7 +1445,7 @@ AcDbLayerTableRecord
 2
 ROAD_SIGNAGE
 70
-5
+4
 62
 6
 6
@@ -1467,7 +1467,7 @@ AcDbLayerTableRecord
 2
 STORM_WATER
 70
-5
+4
 62
 1
 6
@@ -1489,7 +1489,7 @@ AcDbLayerTableRecord
 2
 SW_TEXT
 70
-5
+4
 62
 1
 6
@@ -1511,7 +1511,7 @@ AcDbLayerTableRecord
 2
 TELKOM
 70
-5
+4
 62
 4
 6
@@ -1533,7 +1533,7 @@ AcDbLayerTableRecord
 2
 TITLE
 70
-5
+4
 62
 3
 6
@@ -1555,7 +1555,7 @@ AcDbLayerTableRecord
 2
 TREES
 70
-5
+4
 62
 14
 6
@@ -1577,7 +1577,7 @@ AcDbLayerTableRecord
 2
 WALLS
 70
-5
+4
 62
 11
 6
@@ -1599,7 +1599,7 @@ AcDbLayerTableRecord
 2
 WATER
 70
-5
+4
 62
 2
 6
