@@ -1,0 +1,4 @@
+I had touble exporting my plan to PDF as you can see in final.pdf so I have provided the DWG file as well as a screenshot of the AutoCad project.
+
+I have not been able to resolve this yet, I will send an addional email with a
+working PDF of my plan if I manage to solve the problem.
